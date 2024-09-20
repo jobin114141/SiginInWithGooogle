@@ -1,3 +1,39 @@
 https://www.youtube.com/watch?v=KIvQIvx0r4o 
 
 check this video
+
+prj conatins - contact number,email.
+
+Common Google API Scopes
+Profile and Email Scopes:
+
+'profile': Access to the user's basic profile information (name, profile picture, etc.).
+'email': Access to the user's email address.
+Calendar Scopes:
+
+'https://www.googleapis.com/auth/calendar': Full access to the user's calendar, allowing you to read and write calendar events.
+'https://www.googleapis.com/auth/calendar.readonly': Read-only access to the user's calendar.
+Contacts Scopes:
+
+'https://www.googleapis.com/auth/contacts': Full access to the user's contacts.
+'https://www.googleapis.com/auth/contacts.readonly': Read-only access to the user's contacts.
+Drive Scopes:
+
+'https://www.googleapis.com/auth/drive': Full access to the user's Google Drive, allowing you to read, create, and delete files.
+'https://www.googleapis.com/auth/drive.readonly': Read-only access to the user's Google Drive files.
+Gmail Scopes:
+
+'https://www.googleapis.com/auth/gmail.readonly': Read-only access to the user's Gmail messages.
+'https://www.googleapis.com/auth/gmail.send': Send emails on behalf of the user.
+YouTube Scopes:
+
+'https://www.googleapis.com/auth/youtube': Full access to the user's YouTube account.
+'https://www.googleapis.com/auth/youtube.readonly': Read-only access to the user's YouTube account.
+Google Sheets Scopes:
+
+'https://www.googleapis.com/auth/spreadsheets': Full access to Google Sheets, allowing you to read and write sheets.
+'https://www.googleapis.com/auth/spreadsheets.readonly': Read-only access to Google Sheets.
+Google Tasks Scopes:
+
+'https://www.googleapis.com/auth/tasks': Full access to the user's tasks.
+'https://www.googleapis.com/auth/tasks.readonly': Read-only access to the user's tasks
